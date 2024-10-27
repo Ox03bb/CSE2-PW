@@ -1,11 +1,19 @@
-# Welcome to your Jupyter Book
+# Introduction
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Welcome to the **Practical Solutions Book for Second-Year Computer Science Students**. This book is designed to offer solutions for practical exercises, supporting your skill development in programming and helping you understand the practical applications of theoretical concepts.
 
-Check out the content pages bundled with this sample book to see more.
+## Book Content
+
+Each chapter includes:
+- **Exercise Description**: A clear outline of the objectives.
+- **Solution Approach**: The methods and logic used to solve the exercise.
+- **Code Implementation**: Examples with commented code.
+- **Analysis**: Explanations on how each solution meets the exercise requirements.
+
+## Target Audience
+
+This book is intended for second-year students and anyone interested in enhancing their understanding of computer science fundamentals.
+
 
 ```{tableofcontents}
 ```
